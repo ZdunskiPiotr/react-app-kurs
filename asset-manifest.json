@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-app-kurs/static/css/main.e64a5803.chunk.css",
-    "main.js": "/react-app-kurs/static/js/main.d80707fc.chunk.js",
-    "main.js.map": "/react-app-kurs/static/js/main.d80707fc.chunk.js.map",
+    "main.js": "/react-app-kurs/static/js/main.a1638e16.chunk.js",
+    "main.js.map": "/react-app-kurs/static/js/main.a1638e16.chunk.js.map",
     "runtime-main.js": "/react-app-kurs/static/js/runtime-main.509cd6c7.js",
     "runtime-main.js.map": "/react-app-kurs/static/js/runtime-main.509cd6c7.js.map",
     "static/js/2.0be00902.chunk.js": "/react-app-kurs/static/js/2.0be00902.chunk.js",
     "static/js/2.0be00902.chunk.js.map": "/react-app-kurs/static/js/2.0be00902.chunk.js.map",
     "index.html": "/react-app-kurs/index.html",
-    "precache-manifest.d711f1c104d022da0752eaa96a2f9030.js": "/react-app-kurs/precache-manifest.d711f1c104d022da0752eaa96a2f9030.js",
+    "precache-manifest.c1117328718c7c421c62a8420c707d47.js": "/react-app-kurs/precache-manifest.c1117328718c7c421c62a8420c707d47.js",
     "service-worker.js": "/react-app-kurs/service-worker.js",
     "static/css/main.e64a5803.chunk.css.map": "/react-app-kurs/static/css/main.e64a5803.chunk.css.map",
     "static/js/2.0be00902.chunk.js.LICENSE.txt": "/react-app-kurs/static/js/2.0be00902.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.509cd6c7.js",
     "static/js/2.0be00902.chunk.js",
     "static/css/main.e64a5803.chunk.css",
-    "static/js/main.d80707fc.chunk.js"
+    "static/js/main.a1638e16.chunk.js"
   ]
 }
